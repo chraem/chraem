@@ -8,7 +8,7 @@ Connect with me at:
 <p>
 <a href = "https://twitter.com/chraem2"> 
   <img src="https://user-images.githubusercontent.com/80801050/131329564-8bfec89b-3f77-4e26-b439-7c03a69fee7d.png" width=20>
-    @chraem
+    @chraem2
 </a>
 </p>
 
