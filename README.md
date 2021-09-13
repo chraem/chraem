@@ -2,7 +2,7 @@
 
 # About me
 
-I am chraem, a computer science student at <a href = "https://plm.edu.ph/">Pamantasan ng Lungsod ng Maynila</a>. I started coding when I was 18 years old.
+I am Christine, a computer science student at <a href = "https://plm.edu.ph/">Pamantasan ng Lungsod ng Maynila</a>. I started coding when I was 18 years old.
 
 Connect with me at:
 <p>
