@@ -2,7 +2,7 @@
 
 # About me
 
-I am Christine, a computer science student and aspiring Java, Python, Javascript or C# application developer.
+I am Christine, a computer science student. Currently looking for a specific area where I can focus on.
 
 Connect with me at:
 <p>
