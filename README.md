@@ -7,10 +7,13 @@
 <h3>Connect with me at:</h3>
 <p>
   <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=calumbiranc@gmail.com"> 
-   <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width=35 alt="calumbiranc@gmail.com">
+   <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="35" alt="calumbiranc@gmail.com">
+ </a>
+ <a href = "https://www.linkedin.com/in/christinecalumbiran/"> 
+   <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" width="35" alt="@chraem2">
  </a>
  <a href = "https://twitter.com/chraem2"> 
-   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/128/1491579542-yumminkysocialmedia22_83078.png" width=35 alt="@chraem2">
+   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/128/1491579542-yumminkysocialmedia22_83078.png" width="35" alt="@chraem2">
  </a>
 </p>
   
