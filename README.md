@@ -1,8 +1,4 @@
 <img align="right" width="460" height="300" src="https://user-images.githubusercontent.com/80801050/131340786-7e37dd91-dbc1-4d61-a997-09fb22dd5300.gif">
-
-<h2>Hi! I'm Christine</h2>
-<p>I'm a computer science student and, currently, interested in Java and Python.<p>
-
   
 <h3>Connect with me at:</h3>
 <p>
